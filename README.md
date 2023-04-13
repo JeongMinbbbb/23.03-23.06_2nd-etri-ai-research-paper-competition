@@ -13,7 +13,8 @@
 
 ## 구현 방법
 
-main.ipynb를 이용하여 세부 기능 모듈(Preprocessing.py, datasplit.py, SP_Model.py, GpsVS.py)을 사용할 수 있다.
+- main.ipynb를 이용하여 세부 기능 모듈(Preprocessing.py, datasplit.py, SP_Model.py, GpsVS.py)을 사용할 수 있다.
+- Data 폴더 내에 센서 데이터 업로드 후, path 변수 설정
 
 ## 사용 오픈소스 라이브러리
 
