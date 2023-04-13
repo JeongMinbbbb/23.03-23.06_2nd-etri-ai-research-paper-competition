@@ -13,10 +13,14 @@
 
 ## 사용 오픈소스 라이브러리
 
-- tensorflow 
-- sklearn
-- pandas
-- numpy
+- tensorflow == 2.12.0
+- sklearn == 1.2.2
+- pandas == 1.5.3
+- numpy == 1.22.4
+- matplotlib == 3.7.1
+- folium == 0.14.0
+- tqdm == 4.65.0
+
 
 ## 개발 환경
 Python3
