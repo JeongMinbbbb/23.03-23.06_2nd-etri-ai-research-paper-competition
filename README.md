@@ -16,7 +16,7 @@
 ![map](https://user-images.githubusercontent.com/90736934/231823008-a1ca309c-b410-4cbb-844c-450f92a8d44d.png)
 <map.png>
 
-## 구현 방법
+## 모듈 구현 방법
 
 - main.ipynb를 이용하여 세부 기능 모듈(Preprocessing.py, datasplit.py, SP_Model.py, GpsVS.py)을 사용할 수 있다.
 - Data 폴더 내에 센서 데이터 업로드 후, path 변수 설정
