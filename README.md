@@ -7,7 +7,7 @@
 ## 주제
 
 생체 신호 데이터를 이용한 애착 장소 분석
-"Attachment Place Analysis using Biosignals Data"
+"Attachment Place Analysis using Biosignal Data"
 
 ## 요약
  
