@@ -1,4 +1,4 @@
-# ETRI_Attachment_Place
+![image](https://github.com/JeongMinbbbb/23.03-23.06_ETRI_Attachment_Place/assets/130365764/2c8b7372-1d4e-44a6-aacc-935795acb3aa)# ETRI_Attachment_Place
 
 > 제2회 ETRI 휴면이해 인공지능 논문경진대회 
 - 라이프로그 데이터셋 활용 인식 및 추론 기술 분야
@@ -15,6 +15,8 @@
 
 ![map](https://user-images.githubusercontent.com/90736934/231823008-a1ca309c-b410-4cbb-844c-450f92a8d44d.png)
 <map.png>
+![Uploading 애착장소.png…]()
+
 
 ## 모듈 구현 방법
 
