@@ -32,7 +32,7 @@
     - 감정과 관련성이 높은 센서 데이터를 독립변수로 사용하여 장소분류 모델을 구축
     - 모델 학습 최적화를 위해 센서 기록 데이터의 단위를 표준화
     - Multi-Resolution CNN을 활용하여 다양한 센서의 주파수 영역을 효율적으로 학습
-   <p align="left">
+   <p align="middle">
         <img src="https://github.com/JeongMinbbbb/23.03-23.06_ETRI_Attachment_Place/assets/130365764/0037ec63-873b-41f7-b689-3bda29b80b6e" alt="image">
       </p>
    ![image](https://github.com/JeongMinbbbb/23.03-23.06_ETRI_Attachment_Place/assets/130365764/0037ec63-873b-41f7-b689-3bda29b80b6e)
