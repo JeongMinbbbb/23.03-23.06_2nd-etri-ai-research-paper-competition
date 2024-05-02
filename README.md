@@ -6,7 +6,8 @@
 > 주최는 한국전자통신연구원(ETRI) 그리고 운영은 인공지능 팩토리로 대회가 진행 
 
 
-## 주제 : 생체 신호 데이터를 이용한 애착 장소 분석(Attachment Place Analysis Using Biosignal Data)
+## 주제 : 생체 신호 데이터를 이용한 애착 장소 분석
+## (Attachment Place Analysis Using Biosignal Data)
 > ETRI 휴먼이해 인공지능 논문경진대회란?
 
 > 인간과 교감할 수 있는 인공지능을 구현하고 사람의 행동과 감정을 이해하는 기술 연구를 확산시키고 창의적인 연구를 발굴하는 경진대회 
