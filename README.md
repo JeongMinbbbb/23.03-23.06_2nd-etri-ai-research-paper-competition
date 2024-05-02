@@ -36,9 +36,7 @@
         - 예를 들어, 모델에 의해 반복적해서‘집’으로 잘못 분류된 장소는 집과 유사한 감정을 느낄 수 있는 사용자의 애착장소
         - 모델이 오분류한 시점의 GPS 데이터[map.png]를 이용
       
-    ![image](https://github.com/JeongMinbbbb/23.03-23.06_ETRI_Attachment_Place/assets/130365764/2c8b7372-1d4e-44a6-aacc-935795acb3aa)
    ![image](https://github.com/JeongMinbbbb/23.03-23.06_ETRI_Attachment_Place/assets/130365764/af0fb959-2b33-4551-94ba-9cfa1abe6bf4)
-
 
     - 사용자의 애착 장소를 기반으로 한 마케팅 전략 제안
         - 사용자가 편하게 느끼는 공간(예: 집)에서 브랜드 노출을 권장
