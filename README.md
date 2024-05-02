@@ -35,17 +35,14 @@
    <p align="middle">
      <img src="https://github.com/JeongMinbbbb/23.03-23.06_ETRI_Attachment_Place/assets/130365764/0037ec63-873b-41f7-b689-3bda29b80b6e" alt="image">
    </p>
-   ![image](https://github.com/JeongMinbbbb/23.03-23.06_ETRI_Attachment_Place/assets/130365764/0037ec63-873b-41f7-b689-3bda29b80b6e)
-
 
     - 장소 분류 모델의 오분류 사례를 활용하여 사용자별 애착 장소 도출
         - 예를 들어, 모델에 의해 반복적해서‘집’으로 잘못 분류된 장소는 집과 유사한 감정을 느낄 수 있는 사용자의 애착장소
         - 모델이 오분류한 시점의 GPS 데이터를 이용
     <p align="middle">
      <img src="https://github.com/JeongMinbbbb/23.03-23.06_ETRI_Attachment_Place/assets/130365764/af0fb959-2b33-4551-94ba-9cfa1abe6bf4" alt="image">
-   </p>  
-   ![image](https://github.com/JeongMinbbbb/23.03-23.06_ETRI_Attachment_Place/assets/130365764/af0fb959-2b33-4551-94ba-9cfa1abe6bf4)
-
+   </p>
+   
     - 사용자의 애착 장소를 기반으로 한 마케팅 전략 제안
         - 사용자가 편하게 느끼는 공간(예: 집)에서 브랜드 노출을 권장
         - 앱으로 애착 장소와 유사한 분위기의 인근 카페를 추천
